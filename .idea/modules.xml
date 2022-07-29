@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imooc-bilibili.iml" filepath="$PROJECT_DIR$/imooc-bilibili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-bilibili-api/imooc-bilibili-api.iml" filepath="$PROJECT_DIR$/imooc-bilibili-api/imooc-bilibili-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-bilibili-dao/imooc-bilibili-dao.iml" filepath="$PROJECT_DIR$/imooc-bilibili-dao/imooc-bilibili-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-bilibili-service/imooc-bilibili-service.iml" filepath="$PROJECT_DIR$/imooc-bilibili-service/imooc-bilibili-service.iml" />
+    </modules>
+  </component>
+</project>
